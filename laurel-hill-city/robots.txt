@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://laurel-hill-city.govirtualhealth.com/sitemap.xml
