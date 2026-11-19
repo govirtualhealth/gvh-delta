@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://north-redington-beach-city.govirtualhealth.com/sitemap.xml
