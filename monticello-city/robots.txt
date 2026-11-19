@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://monticello-city.govirtualhealth.com/sitemap.xml

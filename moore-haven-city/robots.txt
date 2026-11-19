@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://moore-haven-city.govirtualhealth.com/sitemap.xml
