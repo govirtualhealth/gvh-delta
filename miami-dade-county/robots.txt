@@ -1,3 +1,4 @@
+# Miami-Dade County subdomain: pages are redirect stubs to florida.govirtualhealth.com/miami-dade-county (2026-11-18)
 User-agent: *
 Allow: /
 Sitemap: https://florida.govirtualhealth.com/miami-dade-county/sitemap.xml
