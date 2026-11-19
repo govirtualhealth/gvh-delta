@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://daytona-beach-shores-city.govirtualhealth.com/sitemap.xml
