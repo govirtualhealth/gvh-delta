@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://penney-farms-city.govirtualhealth.com/sitemap.xml

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://paxton-city.govirtualhealth.com/sitemap.xml

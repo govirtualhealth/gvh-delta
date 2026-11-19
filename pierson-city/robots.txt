@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pierson-city.govirtualhealth.com/sitemap.xml
