@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://walton-county.govirtualhealth.com/sitemap.xml

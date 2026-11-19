@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://washington-county.govirtualhealth.com/sitemap.xml
