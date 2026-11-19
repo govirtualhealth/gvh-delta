@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://glades-county.govirtualhealth.com/sitemap.xml
