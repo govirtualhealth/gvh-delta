@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://coral-springs-city.govirtualhealth.com/sitemap.xml

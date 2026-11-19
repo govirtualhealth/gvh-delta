@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://coral-gables-city.govirtualhealth.com/sitemap.xml
