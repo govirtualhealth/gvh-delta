@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://key-biscayne-city.govirtualhealth.com/sitemap.xml
