@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gadsden-county.govirtualhealth.com/sitemap.xml

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://frostproof-city.govirtualhealth.com/sitemap.xml
