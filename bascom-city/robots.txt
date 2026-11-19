@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bascom-city.govirtualhealth.com/sitemap.xml

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bay-lake-city.govirtualhealth.com/sitemap.xml

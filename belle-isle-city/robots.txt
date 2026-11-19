@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://belle-isle-city.govirtualhealth.com/sitemap.xml

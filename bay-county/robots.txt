@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bay-county.govirtualhealth.com/sitemap.xml
