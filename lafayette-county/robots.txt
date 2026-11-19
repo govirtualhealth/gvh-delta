@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lafayette-county.govirtualhealth.com/sitemap.xml
