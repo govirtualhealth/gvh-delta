@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://north-lauderdale-city.govirtualhealth.com/sitemap.xml
