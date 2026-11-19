@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sumter-county.govirtualhealth.com/sitemap.xml

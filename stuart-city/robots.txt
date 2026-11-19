@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://stuart-city.govirtualhealth.com/sitemap.xml

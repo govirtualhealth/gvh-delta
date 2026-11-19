@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sweetwater-city.govirtualhealth.com/sitemap.xml
