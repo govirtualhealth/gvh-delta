@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rockledge-city.govirtualhealth.com/sitemap.xml
