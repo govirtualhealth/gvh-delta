@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://malabar-city.govirtualhealth.com/sitemap.xml

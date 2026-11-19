@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://marco-island-city.govirtualhealth.com/sitemap.xml

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://malone-city.govirtualhealth.com/sitemap.xml
