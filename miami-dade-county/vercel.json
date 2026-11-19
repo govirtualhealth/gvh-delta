@@ -1,4 +1,9 @@
 {
-  "cleanUrls": true,
-  "trailingSlash": false
+  "redirects": [
+    {
+      "source": "/:path*",
+      "destination": "https://florida.govirtualhealth.com/miami-dade-county/:path*",
+      "permanent": true
+    }
+  ]
 }
