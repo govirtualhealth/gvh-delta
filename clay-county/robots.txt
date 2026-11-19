@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://clay-county.govirtualhealth.com/sitemap.xml
