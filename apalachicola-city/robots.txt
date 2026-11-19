@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://apalachicola-city.govirtualhealth.com/sitemap.xml

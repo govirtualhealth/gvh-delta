@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://arcadia-city.govirtualhealth.com/sitemap.xml

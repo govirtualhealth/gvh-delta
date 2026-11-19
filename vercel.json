@@ -1,0 +1,16 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "rewrites": [
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "(?<sub>[a-z0-9-]+)\\.govirtualhealth\\.com"
+        }
+      ],
+      "destination": "/:sub/:path*"
+    }
+  ]
+}
