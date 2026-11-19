@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://welaka-city.govirtualhealth.com/sitemap.xml

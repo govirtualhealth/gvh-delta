@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wausau-city.govirtualhealth.com/sitemap.xml

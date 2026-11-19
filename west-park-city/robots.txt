@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://west-park-city.govirtualhealth.com/sitemap.xml
