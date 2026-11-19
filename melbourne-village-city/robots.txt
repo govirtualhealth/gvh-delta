@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://melbourne-village-city.govirtualhealth.com/sitemap.xml
