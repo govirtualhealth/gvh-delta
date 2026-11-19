@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://howey-in-the-hills-city.govirtualhealth.com/sitemap.xml
