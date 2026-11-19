@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://destin-city.govirtualhealth.com/sitemap.xml

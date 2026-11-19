@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dundee-city.govirtualhealth.com/sitemap.xml

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dunedin-city.govirtualhealth.com/sitemap.xml
