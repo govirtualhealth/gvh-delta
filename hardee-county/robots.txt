@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hardee-county.govirtualhealth.com/sitemap.xml
