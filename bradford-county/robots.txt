@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bradford-county.govirtualhealth.com/sitemap.xml
