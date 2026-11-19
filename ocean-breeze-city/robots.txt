@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ocean-breeze-city.govirtualhealth.com/sitemap.xml
