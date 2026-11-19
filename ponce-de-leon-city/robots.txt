@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ponce-de-leon-city.govirtualhealth.com/sitemap.xml
