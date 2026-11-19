@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://indian-rocks-beach-city.govirtualhealth.com/sitemap.xml
