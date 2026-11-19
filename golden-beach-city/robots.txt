@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://golden-beach-city.govirtualhealth.com/sitemap.xml

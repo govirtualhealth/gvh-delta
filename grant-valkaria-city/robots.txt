@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://grant-valkaria-city.govirtualhealth.com/sitemap.xml
