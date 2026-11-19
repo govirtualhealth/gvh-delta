@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://groveland-city.govirtualhealth.com/sitemap.xml
