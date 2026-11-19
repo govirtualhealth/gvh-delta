@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://holmes-beach-city.govirtualhealth.com/sitemap.xml
