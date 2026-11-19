@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://center-hill-city.govirtualhealth.com/sitemap.xml

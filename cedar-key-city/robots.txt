@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cedar-key-city.govirtualhealth.com/sitemap.xml

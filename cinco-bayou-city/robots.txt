@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cinco-bayou-city.govirtualhealth.com/sitemap.xml
