@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://boynton-beach-city.govirtualhealth.com/sitemap.xml

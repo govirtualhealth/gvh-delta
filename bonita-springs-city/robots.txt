@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bonita-springs-city.govirtualhealth.com/sitemap.xml

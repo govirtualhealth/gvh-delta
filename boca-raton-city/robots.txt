@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://boca-raton-city.govirtualhealth.com/sitemap.xml
