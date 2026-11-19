@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://southwest-ranches-city.govirtualhealth.com/sitemap.xml
