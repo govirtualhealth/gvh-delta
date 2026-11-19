@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sewalls-point-city.govirtualhealth.com/sitemap.xml
