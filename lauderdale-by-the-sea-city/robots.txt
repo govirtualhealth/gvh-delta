@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lauderdale-by-the-sea-city.govirtualhealth.com/sitemap.xml
