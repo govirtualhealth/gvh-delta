@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://trenton-city.govirtualhealth.com/sitemap.xml
