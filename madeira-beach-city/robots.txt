@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://madeira-beach-city.govirtualhealth.com/sitemap.xml
