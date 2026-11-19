@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://miami-gardens-city.govirtualhealth.com/sitemap.xml
+Sitemap: https://florida.govirtualhealth.com/miami-gardens-city/sitemap.xml
