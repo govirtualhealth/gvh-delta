@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bunnell-city.govirtualhealth.com/sitemap.xml

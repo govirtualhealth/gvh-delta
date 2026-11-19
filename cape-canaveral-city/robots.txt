@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cape-canaveral-city.govirtualhealth.com/sitemap.xml
