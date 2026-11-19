@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://okeechobee-county.govirtualhealth.com/sitemap.xml
