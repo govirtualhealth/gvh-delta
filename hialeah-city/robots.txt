@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hialeah-city.govirtualhealth.com/sitemap.xml

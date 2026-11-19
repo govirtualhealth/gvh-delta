@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://high-springs-city.govirtualhealth.com/sitemap.xml
