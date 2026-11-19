@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://virginia-gardens-city.govirtualhealth.com/sitemap.xml

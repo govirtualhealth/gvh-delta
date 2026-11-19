@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://valparaiso-city.govirtualhealth.com/sitemap.xml
