@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://san-antonio-city.govirtualhealth.com/sitemap.xml

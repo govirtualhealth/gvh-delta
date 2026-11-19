@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://safety-harbor-city.govirtualhealth.com/sitemap.xml
