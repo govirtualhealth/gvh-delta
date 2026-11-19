@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://quincy-city.govirtualhealth.com/sitemap.xml

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://port-st-lucie-city.govirtualhealth.com/sitemap.xml

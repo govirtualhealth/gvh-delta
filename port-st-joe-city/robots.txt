@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://port-st-joe-city.govirtualhealth.com/sitemap.xml
