@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://margate-city.govirtualhealth.com/sitemap.xml
