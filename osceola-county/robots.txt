@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://osceola-county.govirtualhealth.com/sitemap.xml
