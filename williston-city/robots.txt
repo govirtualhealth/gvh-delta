@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://williston-city.govirtualhealth.com/sitemap.xml
