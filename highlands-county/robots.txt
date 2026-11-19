@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://highlands-county.govirtualhealth.com/sitemap.xml
