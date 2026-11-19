@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://duval-county.govirtualhealth.com/sitemap.xml

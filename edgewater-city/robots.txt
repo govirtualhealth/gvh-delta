@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://edgewater-city.govirtualhealth.com/sitemap.xml

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://esto-city.govirtualhealth.com/sitemap.xml

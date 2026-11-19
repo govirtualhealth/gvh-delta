@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://eagle-lake-city.govirtualhealth.com/sitemap.xml
