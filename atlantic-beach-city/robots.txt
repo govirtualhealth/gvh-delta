@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://atlantic-beach-city.govirtualhealth.com/sitemap.xml

@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://baker-county.govirtualhealth.com/sitemap.xml
