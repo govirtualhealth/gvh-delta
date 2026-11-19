@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://taylor-county.govirtualhealth.com/sitemap.xml
