@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jay-city.govirtualhealth.com/sitemap.xml
