@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://winter-park-city.govirtualhealth.com/sitemap.xml
