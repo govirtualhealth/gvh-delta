@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://starke-city.govirtualhealth.com/sitemap.xml
