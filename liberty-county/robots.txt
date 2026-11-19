@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://liberty-county.govirtualhealth.com/sitemap.xml
