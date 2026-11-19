@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://georgia.govirtualhealth.com/sitemap.xml
