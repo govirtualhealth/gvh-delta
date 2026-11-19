@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://miami-lakes-city.govirtualhealth.com/sitemap.xml
