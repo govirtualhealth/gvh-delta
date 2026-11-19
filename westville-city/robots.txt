@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://westville-city.govirtualhealth.com/sitemap.xml
