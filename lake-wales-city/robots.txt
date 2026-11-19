@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lake-wales-city.govirtualhealth.com/sitemap.xml
