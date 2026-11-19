@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://new-port-richey-city.govirtualhealth.com/sitemap.xml
